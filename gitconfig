@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = meghan.h.johnson@gmail.com
+	name = Meghan Johnson
